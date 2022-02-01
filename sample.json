@@ -1,0 +1,12 @@
+{
+  "Product": [
+    "CAR"
+  ],
+  "ProductDescription": [
+    "This product is a car, great"
+  ],
+  "ProductTags": [
+    "FOO",
+    "BAR"
+  ]
+}
